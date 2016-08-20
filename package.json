@@ -1,0 +1,23 @@
+{
+  "name": "firstgithub",
+  "version": "1.0.0",
+  "description": "\"# webCrawler\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node panode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longtaken/webCrawler.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "colors":"^1.1.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longtaken/webCrawler/issues"
+  },
+  "homepage": "https://github.com/longtaken/webCrawler#readme"
+}
